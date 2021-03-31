@@ -13,7 +13,17 @@ public class Demo
 {
     public static void main(String[] args)
     {
-        Enum en = Enums.D;
+    	String s1="welcome";
+    	String s2=new String("welcome");
+
+    	if(s1.equals(s2))
+    	  System.out.println("same");
+    	else
+    	  System.out.println("not same");
+    	
+    	String str1 = "abcde";
+    	System.out.println(str1.substring(1, 3)); 
+       
     }
 }
 

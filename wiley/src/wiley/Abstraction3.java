@@ -1,6 +1,6 @@
 package wiley;
 
-// When you're unsure of numer of parameters, or functionalities of the methods
+// When you're unsure of number of parameters, or functionalities of the methods
 //add, div and mult
 
 abstract class Ayush4 {

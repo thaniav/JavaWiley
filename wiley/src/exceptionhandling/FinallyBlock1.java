@@ -1,4 +1,4 @@
-package wileynew;
+package exceptionhandling;
 
 public class FinallyBlock1 {
 
